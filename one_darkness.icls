@@ -1,10 +1,10 @@
 <scheme name="One Darkness" version="142" parent_scheme="Darcula">
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="created">2023-09-29T15:47:03</property>
+    <property name="created">2023-10-01T23:15:31</property>
     <property name="ide">AndroidStudio</property>
     <property name="ideVersion">2022.3.1.20</property>
-    <property name="modified">2023-09-29T15:47:36</property>
+    <property name="modified">2023-10-01T23:15:41</property>
     <property name="originalScheme">One Darkness</property>
   </metaInfo>
   <console-font>
@@ -468,7 +468,7 @@
     </option>
     <option name="DART_ENUM_CONSTANT">
       <value>
-        <option name="FOREGROUND" value="d19a66" />
+        <option name="FOREGROUND" value="a8805c" />
       </value>
     </option>
     <option name="DART_INSTANCE_GETTER_DECLARATION">
@@ -531,7 +531,7 @@
     </option>
     <option name="DEFAULT_CLASS_NAME">
       <value>
-        <option name="FOREGROUND" value="dec392" />
+        <option name="FOREGROUND" value="e3d0ad" />
       </value>
     </option>
     <option name="DEFAULT_CLASS_REFERENCE">
@@ -544,7 +544,7 @@
     </option>
     <option name="DEFAULT_CONSTANT">
       <value>
-        <option name="FOREGROUND" value="d06d74" />
+        <option name="FOREGROUND" value="e18087" />
       </value>
     </option>
     <option name="DEFAULT_DOC_COMMENT">
@@ -569,12 +569,12 @@
     </option>
     <option name="DEFAULT_ENTITY">
       <value>
-        <option name="FOREGROUND" value="e06e75" />
+        <option name="FOREGROUND" value="e18087" />
       </value>
     </option>
     <option name="DEFAULT_FUNCTION_CALL">
       <value>
-        <option name="FOREGROUND" value="6a97bf" />
+        <option name="FOREGROUND" value="6995bd" />
       </value>
     </option>
     <option name="DEFAULT_FUNCTION_DECLARATION">
@@ -584,7 +584,7 @@
     </option>
     <option name="DEFAULT_GLOBAL_VARIABLE">
       <value>
-        <option name="FOREGROUND" value="d06d74" />
+        <option name="FOREGROUND" value="e18087" />
       </value>
     </option>
     <option name="DEFAULT_IDENTIFIER">
@@ -594,12 +594,12 @@
     </option>
     <option name="DEFAULT_INSTANCE_FIELD">
       <value>
-        <option name="FOREGROUND" value="d06d74" />
+        <option name="FOREGROUND" value="e18087" />
       </value>
     </option>
     <option name="DEFAULT_INTERFACE_NAME">
       <value>
-        <option name="FOREGROUND" value="dec392" />
+        <option name="FOREGROUND" value="e3d0ad" />
       </value>
     </option>
     <option name="DEFAULT_INVALID_STRING_ESCAPE">
@@ -626,7 +626,7 @@
     </option>
     <option name="DEFAULT_METADATA">
       <value>
-        <option name="FOREGROUND" value="d06d74" />
+        <option name="FOREGROUND" value="d76169" />
       </value>
     </option>
     <option name="DEFAULT_NUMBER">
@@ -645,7 +645,7 @@
     </option>
     <option name="DEFAULT_STATIC_FIELD">
       <value>
-        <option name="FOREGROUND" value="d06d74" />
+        <option name="FOREGROUND" value="e18087" />
       </value>
     </option>
     <option name="DEFAULT_STATIC_METHOD" baseAttributes="DEFAULT_FUNCTION_DECLARATION" />
@@ -661,7 +661,7 @@
     </option>
     <option name="DEFAULT_VALID_STRING_ESCAPE">
       <value>
-        <option name="FOREGROUND" value="56b6c2" />
+        <option name="FOREGROUND" value="55bac7" />
       </value>
     </option>
     <option name="DELETED_TEXT_ATTRIBUTES">
