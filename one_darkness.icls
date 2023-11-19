@@ -1,10 +1,10 @@
 <scheme name="One Darkness" version="142" parent_scheme="Darcula">
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="created">2023-10-01T23:15:31</property>
+    <property name="created">2023-11-19T15:40:45</property>
     <property name="ide">AndroidStudio</property>
-    <property name="ideVersion">2022.3.1.20</property>
-    <property name="modified">2023-10-01T23:15:41</property>
+    <property name="ideVersion">2022.3.1.22</property>
+    <property name="modified">2023-11-19T15:40:56</property>
     <property name="originalScheme">One Darkness</property>
   </metaInfo>
   <console-font>
@@ -35,6 +35,7 @@
     <option name="DIAGRAM_REALIZATION_EDGE" value="98c379" />
     <option name="DIFF_SEPARATORS_BACKGROUND" value="21252b" />
     <option name="DOCUMENTATION_COLOR" value="3d424b" />
+    <option name="DOC_COMMENT_GUIDE" value="50555e" />
     <option name="ERROR_HINT" value="781732" />
     <option name="FILESTATUS_IDEA_FILESTATUS_IGNORED" value="4f575f" />
     <option name="FOLDED_TEXT_BORDER_COLOR" value="" />
@@ -468,12 +469,12 @@
     </option>
     <option name="DART_ENUM_CONSTANT">
       <value>
-        <option name="FOREGROUND" value="a8805c" />
+        <option name="FOREGROUND" value="ab8f76" />
       </value>
     </option>
     <option name="DART_INSTANCE_GETTER_DECLARATION">
       <value>
-        <option name="FOREGROUND" value="6a97bf" />
+        <option name="FOREGROUND" value="6da0d0" />
       </value>
     </option>
     <option name="DART_INSTANCE_SETTER_DECLARATION">
@@ -483,22 +484,27 @@
     </option>
     <option name="DART_LOCAL_FUNCTION_DECLARATION">
       <value>
-        <option name="FOREGROUND" value="6a97bf" />
+        <option name="FOREGROUND" value="6da0d0" />
       </value>
     </option>
     <option name="DART_LOCAL_FUNCTION_REFERENCE">
       <value>
-        <option name="FOREGROUND" value="6a97bf" />
+        <option name="FOREGROUND" value="6da0d0" />
+      </value>
+    </option>
+    <option name="DART_PARAMETER_DECLARATION">
+      <value>
+        <option name="FOREGROUND" value="ffffff" />
       </value>
     </option>
     <option name="DART_STATIC_GETTER_DECLARATION">
       <value>
-        <option name="FOREGROUND" value="6a97bf" />
+        <option name="FOREGROUND" value="6da0d0" />
       </value>
     </option>
     <option name="DART_STATIC_SETTER_DECLARATION">
       <value>
-        <option name="FOREGROUND" value="6a97bf" />
+        <option name="FOREGROUND" value="6da0d0" />
       </value>
     </option>
     <option name="DEBUGGER_INLINED_VALUES">
@@ -526,7 +532,7 @@
     </option>
     <option name="DEFAULT_BLOCK_COMMENT">
       <value>
-        <option name="FOREGROUND" value="4a4f58" />
+        <option name="FOREGROUND" value="50555e" />
       </value>
     </option>
     <option name="DEFAULT_CLASS_NAME">
@@ -549,7 +555,7 @@
     </option>
     <option name="DEFAULT_DOC_COMMENT">
       <value>
-        <option name="FOREGROUND" value="4a4f58" />
+        <option name="FOREGROUND" value="50555e" />
       </value>
     </option>
     <option name="DEFAULT_DOC_COMMENT_TAG">
@@ -574,22 +580,22 @@
     </option>
     <option name="DEFAULT_FUNCTION_CALL">
       <value>
-        <option name="FOREGROUND" value="6995bd" />
+        <option name="FOREGROUND" value="6da0d0" />
       </value>
     </option>
     <option name="DEFAULT_FUNCTION_DECLARATION">
       <value>
-        <option name="FOREGROUND" value="6a97bf" />
+        <option name="FOREGROUND" value="6da0d0" />
       </value>
     </option>
     <option name="DEFAULT_GLOBAL_VARIABLE">
       <value>
-        <option name="FOREGROUND" value="e18087" />
+        <option name="FOREGROUND" value="9475f5" />
       </value>
     </option>
     <option name="DEFAULT_IDENTIFIER">
       <value>
-        <option name="FOREGROUND" value="b1bbcd" />
+        <option name="FOREGROUND" value="ccd0de" />
       </value>
     </option>
     <option name="DEFAULT_INSTANCE_FIELD">
@@ -604,7 +610,7 @@
     </option>
     <option name="DEFAULT_INVALID_STRING_ESCAPE">
       <value>
-        <option name="FOREGROUND" value="56b6c2" />
+        <option name="FOREGROUND" value="59c0cc" />
         <option name="EFFECT_COLOR" value="f44747" />
         <option name="EFFECT_TYPE" value="2" />
       </value>
@@ -621,17 +627,17 @@
     </option>
     <option name="DEFAULT_LINE_COMMENT">
       <value>
-        <option name="FOREGROUND" value="4a4f58" />
+        <option name="FOREGROUND" value="50555e" />
       </value>
     </option>
     <option name="DEFAULT_METADATA">
       <value>
-        <option name="FOREGROUND" value="d76169" />
+        <option name="FOREGROUND" value="8664ec" />
       </value>
     </option>
     <option name="DEFAULT_NUMBER">
       <value>
-        <option name="FOREGROUND" value="ac6af" />
+        <option name="FOREGROUND" value="1fd3be" />
       </value>
     </option>
     <option name="DEFAULT_REASSIGNED_LOCAL_VARIABLE" baseAttributes="DEFAULT_LOCAL_VARIABLE" />
@@ -661,7 +667,7 @@
     </option>
     <option name="DEFAULT_VALID_STRING_ESCAPE">
       <value>
-        <option name="FOREGROUND" value="55bac7" />
+        <option name="FOREGROUND" value="57b4c0" />
       </value>
     </option>
     <option name="DELETED_TEXT_ATTRIBUTES">
@@ -2011,7 +2017,7 @@
     </option>
     <option name="TEXT">
       <value>
-        <option name="FOREGROUND" value="b7bdcb" />
+        <option name="FOREGROUND" value="c9cedc" />
         <option name="BACKGROUND" value="282c34" />
       </value>
     </option>
