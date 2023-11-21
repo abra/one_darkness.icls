@@ -1,10 +1,10 @@
 <scheme name="One Darkness" version="142" parent_scheme="Darcula">
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="created">2023-11-19T15:40:45</property>
+    <property name="created">2023-11-21T17:23:54</property>
     <property name="ide">AndroidStudio</property>
     <property name="ideVersion">2022.3.1.22</property>
-    <property name="modified">2023-11-19T15:40:56</property>
+    <property name="modified">2023-11-21T17:24:04</property>
     <property name="originalScheme">One Darkness</property>
   </metaInfo>
   <console-font>
@@ -617,7 +617,7 @@
     </option>
     <option name="DEFAULT_KEYWORD">
       <value>
-        <option name="FOREGROUND" value="cb8edc" />
+        <option name="FOREGROUND" value="dd98e7" />
       </value>
     </option>
     <option name="DEFAULT_LABEL">
@@ -638,6 +638,11 @@
     <option name="DEFAULT_NUMBER">
       <value>
         <option name="FOREGROUND" value="1fd3be" />
+      </value>
+    </option>
+    <option name="DEFAULT_OPERATION_SIGN">
+      <value>
+        <option name="FOREGROUND" value="b1c9ee" />
       </value>
     </option>
     <option name="DEFAULT_REASSIGNED_LOCAL_VARIABLE" baseAttributes="DEFAULT_LOCAL_VARIABLE" />
