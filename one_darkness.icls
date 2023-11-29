@@ -1,10 +1,10 @@
 <scheme name="One Darkness" version="142" parent_scheme="Darcula">
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="created">2023-11-24T00:01:09</property>
+    <property name="created">2023-11-29T14:05:24</property>
     <property name="ide">AndroidStudio</property>
     <property name="ideVersion">2022.3.1.22</property>
-    <property name="modified">2023-11-24T00:01:17</property>
+    <property name="modified">2023-11-29T14:05:32</property>
     <property name="originalScheme">One Darkness</property>
   </metaInfo>
   <console-font>
@@ -493,6 +493,11 @@
       </value>
     </option>
     <option name="DART_PARAMETER_DECLARATION">
+      <value>
+        <option name="FOREGROUND" value="ffffff" />
+      </value>
+    </option>
+    <option name="DART_PARAMETER_REFERENCE">
       <value>
         <option name="FOREGROUND" value="ffffff" />
       </value>
