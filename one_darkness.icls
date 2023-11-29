@@ -1,10 +1,10 @@
 <scheme name="One Darkness" version="142" parent_scheme="Darcula">
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="created">2023-11-29T14:05:24</property>
+    <property name="created">2023-11-29T14:26:42</property>
     <property name="ide">AndroidStudio</property>
     <property name="ideVersion">2022.3.1.22</property>
-    <property name="modified">2023-11-29T14:05:32</property>
+    <property name="modified">2023-11-29T14:26:49</property>
     <property name="originalScheme">One Darkness</property>
   </metaInfo>
   <console-font>
@@ -54,7 +54,7 @@
     <option name="MODIFIED_LINES_COLOR" value="d19a66" />
     <option name="QUESTION_HINT" value="2e4280" />
     <option name="RECENT_LOCATIONS_SELECTION" value="3d424b" />
-    <option name="RIGHT_MARGIN_COLOR" value="606368" />
+    <option name="RIGHT_MARGIN_COLOR" value="505357" />
     <option name="SELECTED_INDENT_GUIDE" value="606368" />
     <option name="SELECTED_TEARLINE_COLOR" value="6b6e73" />
     <option name="SELECTION_BACKGROUND" value="404859" />
@@ -63,7 +63,7 @@
     <option name="VCS_ANNOTATIONS_COLOR_1" value="335027" />
     <option name="VCS_ANNOTATIONS_COLOR_2" value="3e443c" />
     <option name="VCS_ANNOTATIONS_COLOR_5" value="46333c" />
-    <option name="VISUAL_INDENT_GUIDE" value="3b4048" />
+    <option name="VISUAL_INDENT_GUIDE" value="31333a" />
     <option name="WHITESPACES" value="4b575f" />
     <option name="WHITESPACES_MODIFIED_LINES_COLOR" value="5c6370" />
   </colors>
@@ -494,12 +494,12 @@
     </option>
     <option name="DART_PARAMETER_DECLARATION">
       <value>
-        <option name="FOREGROUND" value="ffffff" />
+        <option name="FOREGROUND" value="7cb7b9" />
       </value>
     </option>
     <option name="DART_PARAMETER_REFERENCE">
       <value>
-        <option name="FOREGROUND" value="ffffff" />
+        <option name="FOREGROUND" value="7cb7b9" />
       </value>
     </option>
     <option name="DART_STATIC_GETTER_DECLARATION">
