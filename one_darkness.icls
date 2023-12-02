@@ -1,10 +1,10 @@
 <scheme name="One Darkness" version="142" parent_scheme="Darcula">
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="created">2023-11-29T14:26:42</property>
+    <property name="created">2023-12-02T13:56:22</property>
     <property name="ide">AndroidStudio</property>
-    <property name="ideVersion">2022.3.1.22</property>
-    <property name="modified">2023-11-29T14:26:49</property>
+    <property name="ideVersion">2023.1.1.26</property>
+    <property name="modified">2023-12-02T13:56:30</property>
     <property name="originalScheme">One Darkness</property>
   </metaInfo>
   <console-font>
@@ -50,11 +50,11 @@
     <option name="INFORMATION_HINT" value="3d424b" />
     <option name="LINE_NUMBERS_COLOR" value="495162" />
     <option name="LINE_NUMBER_ON_CARET_ROW_COLOR" value="737984" />
-    <option name="METHOD_SEPARATORS_COLOR" value="3b4048" />
+    <option name="METHOD_SEPARATORS_COLOR" value="30363a" />
     <option name="MODIFIED_LINES_COLOR" value="d19a66" />
     <option name="QUESTION_HINT" value="2e4280" />
     <option name="RECENT_LOCATIONS_SELECTION" value="3d424b" />
-    <option name="RIGHT_MARGIN_COLOR" value="505357" />
+    <option name="RIGHT_MARGIN_COLOR" value="21252b" />
     <option name="SELECTED_INDENT_GUIDE" value="606368" />
     <option name="SELECTED_TEARLINE_COLOR" value="6b6e73" />
     <option name="SELECTION_BACKGROUND" value="404859" />
@@ -63,7 +63,7 @@
     <option name="VCS_ANNOTATIONS_COLOR_1" value="335027" />
     <option name="VCS_ANNOTATIONS_COLOR_2" value="3e443c" />
     <option name="VCS_ANNOTATIONS_COLOR_5" value="46333c" />
-    <option name="VISUAL_INDENT_GUIDE" value="31333a" />
+    <option name="VISUAL_INDENT_GUIDE" value="30363a" />
     <option name="WHITESPACES" value="4b575f" />
     <option name="WHITESPACES_MODIFIED_LINES_COLOR" value="5c6370" />
   </colors>
@@ -494,12 +494,12 @@
     </option>
     <option name="DART_PARAMETER_DECLARATION">
       <value>
-        <option name="FOREGROUND" value="7cb7b9" />
+        <option name="FOREGROUND" value="ffffff" />
       </value>
     </option>
     <option name="DART_PARAMETER_REFERENCE">
       <value>
-        <option name="FOREGROUND" value="7cb7b9" />
+        <option name="FOREGROUND" value="ffffff" />
       </value>
     </option>
     <option name="DART_STATIC_GETTER_DECLARATION">
@@ -542,12 +542,12 @@
     </option>
     <option name="DEFAULT_CLASS_NAME">
       <value>
-        <option name="FOREGROUND" value="e0c696" />
+        <option name="FOREGROUND" value="e1be7b" />
       </value>
     </option>
     <option name="DEFAULT_CLASS_REFERENCE">
       <value>
-        <option name="FOREGROUND" value="e5c07b" />
+        <option name="FOREGROUND" value="e1be7b" />
       </value>
     </option>
     <option name="DEFAULT_COMMA">
@@ -605,12 +605,12 @@
     </option>
     <option name="DEFAULT_INSTANCE_FIELD">
       <value>
-        <option name="FOREGROUND" value="e18087" />
+        <option name="FOREGROUND" value="de7c83" />
       </value>
     </option>
     <option name="DEFAULT_INTERFACE_NAME">
       <value>
-        <option name="FOREGROUND" value="e0c696" />
+        <option name="FOREGROUND" value="e1be7b" />
       </value>
     </option>
     <option name="DEFAULT_INVALID_STRING_ESCAPE">
@@ -661,7 +661,7 @@
     </option>
     <option name="DEFAULT_STATIC_FIELD">
       <value>
-        <option name="FOREGROUND" value="e18087" />
+        <option name="FOREGROUND" value="de7c83" />
       </value>
     </option>
     <option name="DEFAULT_STATIC_METHOD" baseAttributes="DEFAULT_FUNCTION_DECLARATION" />
@@ -997,7 +997,7 @@
     </option>
     <option name="IDENTIFIER_UNDER_CARET_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="353940" />
+        <option name="BACKGROUND" value="353f4f" />
       </value>
     </option>
     <option name="IMPLICIT_ANONYMOUS_CLASS_PARAMETER_ATTRIBUTES">
@@ -2116,7 +2116,7 @@
     </option>
     <option name="WRITE_IDENTIFIER_UNDER_CARET_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="353940" />
+        <option name="BACKGROUND" value="353f4f" />
       </value>
     </option>
     <option name="WRITE_SEARCH_RESULT_ATTRIBUTES">
