@@ -1,10 +1,10 @@
 <scheme name="One Darkness" version="142" parent_scheme="Darcula">
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="created">2023-12-02T13:56:22</property>
+    <property name="created">2023-12-08T17:28:18</property>
     <property name="ide">AndroidStudio</property>
     <property name="ideVersion">2023.1.1.26</property>
-    <property name="modified">2023-12-02T13:56:30</property>
+    <property name="modified">2023-12-08T17:28:28</property>
     <property name="originalScheme">One Darkness</property>
   </metaInfo>
   <console-font>
