@@ -1,10 +1,10 @@
 <scheme name="One Darkness" version="142" parent_scheme="Darcula">
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="created">2023-12-08T17:28:18</property>
+    <property name="created">2023-12-09T17:08:32</property>
     <property name="ide">AndroidStudio</property>
     <property name="ideVersion">2023.1.1.26</property>
-    <property name="modified">2023-12-08T17:28:28</property>
+    <property name="modified">2023-12-09T17:08:39</property>
     <property name="originalScheme">One Darkness</property>
   </metaInfo>
   <console-font>
@@ -467,9 +467,14 @@
         <option name="FOREGROUND" value="98c379" />
       </value>
     </option>
+    <option name="DART_DYNAMIC_LOCAL_VARIABLE_REFERENCE">
+      <value>
+        <option name="FOREGROUND" value="ffffff" />
+      </value>
+    </option>
     <option name="DART_ENUM_CONSTANT">
       <value>
-        <option name="FOREGROUND" value="b48b67" />
+        <option name="FOREGROUND" value="a67f5d" />
       </value>
     </option>
     <option name="DART_INSTANCE_GETTER_DECLARATION">
@@ -542,7 +547,7 @@
     </option>
     <option name="DEFAULT_CLASS_NAME">
       <value>
-        <option name="FOREGROUND" value="e1be7b" />
+        <option name="FOREGROUND" value="ffbe98" />
       </value>
     </option>
     <option name="DEFAULT_CLASS_REFERENCE">
@@ -600,7 +605,7 @@
     </option>
     <option name="DEFAULT_IDENTIFIER">
       <value>
-        <option name="FOREGROUND" value="ccd0de" />
+        <option name="FOREGROUND" value="c3c6ce" />
       </value>
     </option>
     <option name="DEFAULT_INSTANCE_FIELD">
@@ -610,7 +615,7 @@
     </option>
     <option name="DEFAULT_INTERFACE_NAME">
       <value>
-        <option name="FOREGROUND" value="e1be7b" />
+        <option name="FOREGROUND" value="ffbe98" />
       </value>
     </option>
     <option name="DEFAULT_INVALID_STRING_ESCAPE">
@@ -2027,7 +2032,7 @@
     </option>
     <option name="TEXT">
       <value>
-        <option name="FOREGROUND" value="c9cedc" />
+        <option name="FOREGROUND" value="caccd3" />
         <option name="BACKGROUND" value="282c34" />
       </value>
     </option>
