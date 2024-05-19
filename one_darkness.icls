@@ -1,10 +1,10 @@
 <scheme name="One Darkness" version="142" parent_scheme="Darcula">
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="created">2024-05-15T16:07:48</property>
+    <property name="created">2024-05-19T23:21:42</property>
     <property name="ide">AndroidStudio</property>
     <property name="ideVersion">2023.3.1.18</property>
-    <property name="modified">2024-05-15T16:07:58</property>
+    <property name="modified">2024-05-19T23:21:51</property>
     <property name="originalScheme">One Darkness</property>
   </metaInfo>
   <console-font>
@@ -532,7 +532,7 @@
     </option>
     <option name="DEFAULT_CLASS_NAME">
       <value>
-        <option name="FOREGROUND" value="ffbe98" />
+        <option name="FOREGROUND" value="ffb887" />
       </value>
     </option>
     <option name="DEFAULT_CLASS_REFERENCE">
@@ -590,7 +590,7 @@
     </option>
     <option name="DEFAULT_IDENTIFIER">
       <value>
-        <option name="FOREGROUND" value="9db1bb" />
+        <option name="FOREGROUND" value="8a9da6" />
       </value>
     </option>
     <option name="DEFAULT_INSTANCE_FIELD">
@@ -600,7 +600,7 @@
     </option>
     <option name="DEFAULT_INTERFACE_NAME">
       <value>
-        <option name="FOREGROUND" value="ffbe98" />
+        <option name="FOREGROUND" value="ffb887" />
       </value>
     </option>
     <option name="DEFAULT_INVALID_STRING_ESCAPE">
@@ -612,7 +612,7 @@
     </option>
     <option name="DEFAULT_KEYWORD">
       <value>
-        <option name="FOREGROUND" value="f092ff" />
+        <option name="FOREGROUND" value="e48eff" />
       </value>
     </option>
     <option name="DEFAULT_LABEL">
@@ -2030,8 +2030,8 @@
     </option>
     <option name="TODO_DEFAULT_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="ef875a" />
-        <option name="BACKGROUND" value="232323" />
+        <option name="FOREGROUND" value="ff7438" />
+        <option name="BACKGROUND" value="21242b" />
       </value>
     </option>
     <option name="TS.MODULE_NAME">
