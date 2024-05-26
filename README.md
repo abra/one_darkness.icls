@@ -2,4 +2,4 @@
 One Darkness is a color theme for Android Studio (based on One Dark). 
 The colors are a bit muted compared to the colors in One Dark.
 
-![Screenshot 2024-05-16 at 15 47 19](https://github.com/abra/one_darkness.icls/assets/55690/053687df-89ff-4de5-8a6f-efb744bc3b74)
+![Screenshot](https://github.com/abra/one_darkness.icls/assets/55690/8fa3984e-b325-4aae-989f-4eabba2012b3)
