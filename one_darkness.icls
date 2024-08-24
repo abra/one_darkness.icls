@@ -482,12 +482,12 @@
     </option>
     <option name="DART_PARAMETER_DECLARATION">
       <value>
-        <option name="FOREGROUND" value="ffffff" />
+        <option name="FOREGROUND" value="e8e7e7" />
       </value>
     </option>
     <option name="DART_PARAMETER_REFERENCE">
       <value>
-        <option name="FOREGROUND" value="ffffff" />
+        <option name="FOREGROUND" value="e8e7e7" />
       </value>
     </option>
     <option name="DART_STATIC_GETTER_DECLARATION">
@@ -593,7 +593,7 @@
     </option>
     <option name="DEFAULT_INSTANCE_FIELD">
       <value>
-        <option name="FOREGROUND" value="ef75a3" />
+        <option name="FOREGROUND" value="ea75a1" />
       </value>
     </option>
     <option name="DEFAULT_INTERFACE_NAME">
